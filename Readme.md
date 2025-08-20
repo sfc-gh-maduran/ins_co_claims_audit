@@ -5,7 +5,7 @@ Using Snowflake Cortex Analyst, Cortex Search, Cortex AI SQL, and Streamlit, we 
 # Setup
 In the setup.sql file we create the following objects:
 
-* 'databse': c_chubb
+* database: ins_co
 * schema: loss_claims
 * stage: loss evidence
 * tables:
