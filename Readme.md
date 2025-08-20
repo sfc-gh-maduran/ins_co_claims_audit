@@ -8,13 +8,12 @@ In the setup.sql file we create the following objects:
 * database: ins_co
 * schema: loss_claims
 * stage: loss evidence
-* tables:
+*  tables:
   * Claims
   * Claim Lines
   * Financial Transactions
   * Authorization
-  * Invoices
-  * Claim Notes
-  * Parsed Documents
-  * Guidelines
-
+  * Parsed_invoices
+  * Parsed_guidelines
+  * Parsed_claim_notes
+ 
