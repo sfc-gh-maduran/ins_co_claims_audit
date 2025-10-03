@@ -30,3 +30,7 @@ In the setup.sql file we create the following objects:
 6. Create a new Streamlit app in the database and schema and paste the streamlit.py file into SIS
 
  
+AGENTS---
+
+1. Run Tools config
+2. Run Agents config
