@@ -26,9 +26,11 @@ In the setup.sql file we create the following objects:
    * Guidelines.docx
    * invoice.png
    * Gemini_generated_3.jpeg
-4. The setup script creates a 'Models' stage. Please upload the following .yaml file and create a Cortex Analyst using this .yaml file
+   * ins_co_1899_call.wav
+
+3. The setup script creates a 'Models' stage. Please upload the following .yaml file and create a Cortex Analyst using this .yaml file
    * CA_INS_CO 8_20_2025, 4_52 PM.yaml
-6. Create a new Streamlit app in the database and schema and paste the streamlit.py file into SIS
+4. Create a new Streamlit app in the database and schema and paste the streamlit.py file into SIS
 
  
 AGENTS---
