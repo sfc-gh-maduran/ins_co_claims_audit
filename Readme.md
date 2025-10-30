@@ -1,4 +1,4 @@
-## ins_claims_audit
+## Insurance Claims Agent Demo
 Using Snowflake Cortex Analyst, Cortex Search, Cortex AI SQL, Cortex Agents, and Snowflake Intelligence we are receiving claims data and allowing users to ask both predefined and free-form questions about the claims. We are also describing images and comparing them to claim descriptions to determine if the supporting evidence aligns with the description.
 
 We are able to join unstructured and structured data by combining structured claims data with unstructured data from claim file notes, state insurance guidelines, invoices, and call transcriptions.
